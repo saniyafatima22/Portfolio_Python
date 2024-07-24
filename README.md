@@ -1,6 +1,3 @@
-Certainly! Here’s a case study-style summary:
-
----
 
 **Case Study: Analysis of Netflix Content Data**
 
